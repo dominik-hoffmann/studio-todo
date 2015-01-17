@@ -19,7 +19,8 @@
       },
       "parent": {"@": "blueprint_component_reference"},
       "propertyBlueprintGroups": {
-        "Main": []
+        "Main": [],
+        "TaskCell": []
       },
       "module": {
         "%": "ui/main.reel"
